@@ -16,8 +16,8 @@
 - <img width="22" height="22" src="https://img.icons8.com/stickers/100/data-configuration.png" alt="data-configuration"/>  SQL
 ##
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-SvCruz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 

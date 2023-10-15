@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá!! Eu sou o Michael Cruz 👋 👨‍💻
 
-<!--
-**Michael-SvCruz/Michael-SvCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho com Engenharia Clínica;
+- 👨‍💻 Estudando Análise e Ciência de Dados;
+- 👨‍🎓 Bacharel em Engenharia Elétrica.
+  
+<a href="https://www.linkedin.com/in/michael-svcruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades 👨‍💻
+
+
+- <img width="22" height="22" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>  PBI
+- <img width="22" height="22" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>  Python
+- <img width="22" height="22" src="https://img.icons8.com/stickers/100/data-configuration.png" alt="data-configuration"/>  SQL
+##
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-SvCruz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+

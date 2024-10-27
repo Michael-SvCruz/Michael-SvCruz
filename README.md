@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com Engenharia Clínica;
-- 👨‍💻 Engenharia de Dados;
+- 👨‍💻 Estudando Engenharia de Dados;
 - 👨‍🎓 Bacharel em Engenharia Elétrica.
   
 <a href="https://www.linkedin.com/in/michael-svcruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
